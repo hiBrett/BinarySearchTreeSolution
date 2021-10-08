@@ -8,6 +8,9 @@ Delete: O(log n)
 
 The time complexity depends on how well balanced the tree is. In the worst case scenerio each of these operations will be O(n).
 
+# Space Complexity
+O(n)
+
 
 ## Output
 In-Order Test: PASSED
