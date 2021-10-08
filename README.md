@@ -6,7 +6,7 @@ Contains: O(log n)
 Add: O(log n)
 Delete: O(log n)
 
-In the worst case scenerio each of these will be O(n). This only happens when the items are inserted in an order that causes the tree to look like a list.
+The time complexity depends on how well balanced the tree is. In the worst case scenerio each of these operations will be O(n).
 
 
 ## Output
