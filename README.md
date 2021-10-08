@@ -3,8 +3,8 @@ A binary search tree solution using a tree structure (as opposed to an array).
 
 # Time Complexity
 Contains: O(log n)
-Add: O(log n)
-Delete: O(log n)
+<br/>Add: O(log n)
+<br/>Delete: O(log n)
 
 The time complexity depends on how well balanced the tree is. In the worst case scenerio each of these operations will be O(n).
 
